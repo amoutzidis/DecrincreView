@@ -1,6 +1,6 @@
-##Decrease/Increase Animation View for Numbers
+## Decrease/Increase Animation View for Numbers
 
-###Download 
+### Download 
 Gradle is the only supported build configuration, so just add the dependency to your project build.gradle file:
 
 ```groovy

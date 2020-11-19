@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DecrincreView">
+        <attr name="decrincre_number" format="integer|float"></attr>
+        <attr name="decrincre_interpolator" format="flags">
+            <flag name="Decelerate" value="1"></flag>
+            <flag name="Accelerate" value="2"></flag>
+        </attr>
+        <attr name="decrincre_decimalFormat" format="string"></attr>
+    </declare-styleable>
+</resources>

@@ -5,6 +5,6 @@ Gradle is the only supported build configuration, so just add the dependency to 
 
 ```groovy
 dependencies {
-  implementation com.github.amoutzidis:DecrincreViewLibrary.$DecrincreVersion'
+  implementation 'gr.amoutzidis.DecrincreViewLibrary:$version'
 }
 ```

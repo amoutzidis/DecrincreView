@@ -8,7 +8,7 @@ Gradle is the only supported build configuration, so just add the dependency to 
       implementation 'gr.amoutzidis.DecrincreViewLibrary:$version'
     }
 
-License
+### License
 =======
 
     Copyright 2020 Amoutzidis, Dimitrios
